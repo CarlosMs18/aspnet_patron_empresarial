@@ -1,0 +1,15 @@
+C:\Proyectos ASPNET\Pacagroup.Ecommerce\Infraestructure.Data\bin\Debug\net7.0\Infraestructure.Data.deps.json
+C:\Proyectos ASPNET\Pacagroup.Ecommerce\Infraestructure.Data\bin\Debug\net7.0\Infraestructure.Data.dll
+C:\Proyectos ASPNET\Pacagroup.Ecommerce\Infraestructure.Data\bin\Debug\net7.0\Infraestructure.Data.pdb
+C:\Proyectos ASPNET\Pacagroup.Ecommerce\Infraestructure.Data\bin\Debug\net7.0\Transversal.Common.dll
+C:\Proyectos ASPNET\Pacagroup.Ecommerce\Infraestructure.Data\bin\Debug\net7.0\Transversal.Common.pdb
+C:\Proyectos ASPNET\Pacagroup.Ecommerce\Infraestructure.Data\obj\Debug\net7.0\Infraestructure.Data.csproj.AssemblyReference.cache
+C:\Proyectos ASPNET\Pacagroup.Ecommerce\Infraestructure.Data\obj\Debug\net7.0\Infraestructure.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Proyectos ASPNET\Pacagroup.Ecommerce\Infraestructure.Data\obj\Debug\net7.0\Infraestructure.Data.AssemblyInfoInputs.cache
+C:\Proyectos ASPNET\Pacagroup.Ecommerce\Infraestructure.Data\obj\Debug\net7.0\Infraestructure.Data.AssemblyInfo.cs
+C:\Proyectos ASPNET\Pacagroup.Ecommerce\Infraestructure.Data\obj\Debug\net7.0\Infraestructure.Data.csproj.CoreCompileInputs.cache
+C:\Proyectos ASPNET\Pacagroup.Ecommerce\Infraestructure.Data\obj\Debug\net7.0\Infraestructure.Data.csproj.CopyComplete
+C:\Proyectos ASPNET\Pacagroup.Ecommerce\Infraestructure.Data\obj\Debug\net7.0\Infraestructure.Data.dll
+C:\Proyectos ASPNET\Pacagroup.Ecommerce\Infraestructure.Data\obj\Debug\net7.0\refint\Infraestructure.Data.dll
+C:\Proyectos ASPNET\Pacagroup.Ecommerce\Infraestructure.Data\obj\Debug\net7.0\Infraestructure.Data.pdb
+C:\Proyectos ASPNET\Pacagroup.Ecommerce\Infraestructure.Data\obj\Debug\net7.0\ref\Infraestructure.Data.dll

@@ -1,0 +1,15 @@
+C:\Proyectos ASPNET\Pacagroup.Ecommerce\Domain.Interface\bin\Debug\net7.0\Domain.Interface.deps.json
+C:\Proyectos ASPNET\Pacagroup.Ecommerce\Domain.Interface\bin\Debug\net7.0\Domain.Interface.dll
+C:\Proyectos ASPNET\Pacagroup.Ecommerce\Domain.Interface\bin\Debug\net7.0\Domain.Interface.pdb
+C:\Proyectos ASPNET\Pacagroup.Ecommerce\Domain.Interface\bin\Debug\net7.0\Domain.Entity.dll
+C:\Proyectos ASPNET\Pacagroup.Ecommerce\Domain.Interface\bin\Debug\net7.0\Domain.Entity.pdb
+C:\Proyectos ASPNET\Pacagroup.Ecommerce\Domain.Interface\obj\Debug\net7.0\Domain.Interface.csproj.AssemblyReference.cache
+C:\Proyectos ASPNET\Pacagroup.Ecommerce\Domain.Interface\obj\Debug\net7.0\Domain.Interface.GeneratedMSBuildEditorConfig.editorconfig
+C:\Proyectos ASPNET\Pacagroup.Ecommerce\Domain.Interface\obj\Debug\net7.0\Domain.Interface.AssemblyInfoInputs.cache
+C:\Proyectos ASPNET\Pacagroup.Ecommerce\Domain.Interface\obj\Debug\net7.0\Domain.Interface.AssemblyInfo.cs
+C:\Proyectos ASPNET\Pacagroup.Ecommerce\Domain.Interface\obj\Debug\net7.0\Domain.Interface.csproj.CoreCompileInputs.cache
+C:\Proyectos ASPNET\Pacagroup.Ecommerce\Domain.Interface\obj\Debug\net7.0\Domain.Interface.csproj.CopyComplete
+C:\Proyectos ASPNET\Pacagroup.Ecommerce\Domain.Interface\obj\Debug\net7.0\Domain.Interface.dll
+C:\Proyectos ASPNET\Pacagroup.Ecommerce\Domain.Interface\obj\Debug\net7.0\refint\Domain.Interface.dll
+C:\Proyectos ASPNET\Pacagroup.Ecommerce\Domain.Interface\obj\Debug\net7.0\Domain.Interface.pdb
+C:\Proyectos ASPNET\Pacagroup.Ecommerce\Domain.Interface\obj\Debug\net7.0\ref\Domain.Interface.dll

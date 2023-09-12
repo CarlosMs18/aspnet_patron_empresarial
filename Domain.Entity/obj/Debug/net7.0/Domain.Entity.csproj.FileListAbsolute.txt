@@ -1,0 +1,12 @@
+C:\Proyectos ASPNET\Pacagroup.Ecommerce\Domain.Entity\bin\Debug\net7.0\Domain.Entity.deps.json
+C:\Proyectos ASPNET\Pacagroup.Ecommerce\Domain.Entity\bin\Debug\net7.0\Domain.Entity.dll
+C:\Proyectos ASPNET\Pacagroup.Ecommerce\Domain.Entity\bin\Debug\net7.0\Domain.Entity.pdb
+C:\Proyectos ASPNET\Pacagroup.Ecommerce\Domain.Entity\obj\Debug\net7.0\Domain.Entity.csproj.AssemblyReference.cache
+C:\Proyectos ASPNET\Pacagroup.Ecommerce\Domain.Entity\obj\Debug\net7.0\Domain.Entity.GeneratedMSBuildEditorConfig.editorconfig
+C:\Proyectos ASPNET\Pacagroup.Ecommerce\Domain.Entity\obj\Debug\net7.0\Domain.Entity.AssemblyInfoInputs.cache
+C:\Proyectos ASPNET\Pacagroup.Ecommerce\Domain.Entity\obj\Debug\net7.0\Domain.Entity.AssemblyInfo.cs
+C:\Proyectos ASPNET\Pacagroup.Ecommerce\Domain.Entity\obj\Debug\net7.0\Domain.Entity.csproj.CoreCompileInputs.cache
+C:\Proyectos ASPNET\Pacagroup.Ecommerce\Domain.Entity\obj\Debug\net7.0\Domain.Entity.dll
+C:\Proyectos ASPNET\Pacagroup.Ecommerce\Domain.Entity\obj\Debug\net7.0\refint\Domain.Entity.dll
+C:\Proyectos ASPNET\Pacagroup.Ecommerce\Domain.Entity\obj\Debug\net7.0\Domain.Entity.pdb
+C:\Proyectos ASPNET\Pacagroup.Ecommerce\Domain.Entity\obj\Debug\net7.0\ref\Domain.Entity.dll

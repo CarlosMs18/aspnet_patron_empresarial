@@ -1,0 +1,17 @@
+C:\Proyectos ASPNET\Pacagroup.Ecommerce\Application.Interface\bin\Debug\net7.0\Application.Interface.deps.json
+C:\Proyectos ASPNET\Pacagroup.Ecommerce\Application.Interface\bin\Debug\net7.0\Application.Interface.dll
+C:\Proyectos ASPNET\Pacagroup.Ecommerce\Application.Interface\bin\Debug\net7.0\Application.Interface.pdb
+C:\Proyectos ASPNET\Pacagroup.Ecommerce\Application.Interface\bin\Debug\net7.0\Application.DTO.dll
+C:\Proyectos ASPNET\Pacagroup.Ecommerce\Application.Interface\bin\Debug\net7.0\Transversal.Common.dll
+C:\Proyectos ASPNET\Pacagroup.Ecommerce\Application.Interface\bin\Debug\net7.0\Application.DTO.pdb
+C:\Proyectos ASPNET\Pacagroup.Ecommerce\Application.Interface\bin\Debug\net7.0\Transversal.Common.pdb
+C:\Proyectos ASPNET\Pacagroup.Ecommerce\Application.Interface\obj\Debug\net7.0\Application.Interface.csproj.AssemblyReference.cache
+C:\Proyectos ASPNET\Pacagroup.Ecommerce\Application.Interface\obj\Debug\net7.0\Application.Interface.GeneratedMSBuildEditorConfig.editorconfig
+C:\Proyectos ASPNET\Pacagroup.Ecommerce\Application.Interface\obj\Debug\net7.0\Application.Interface.AssemblyInfoInputs.cache
+C:\Proyectos ASPNET\Pacagroup.Ecommerce\Application.Interface\obj\Debug\net7.0\Application.Interface.AssemblyInfo.cs
+C:\Proyectos ASPNET\Pacagroup.Ecommerce\Application.Interface\obj\Debug\net7.0\Application.Interface.csproj.CoreCompileInputs.cache
+C:\Proyectos ASPNET\Pacagroup.Ecommerce\Application.Interface\obj\Debug\net7.0\Application.Interface.csproj.CopyComplete
+C:\Proyectos ASPNET\Pacagroup.Ecommerce\Application.Interface\obj\Debug\net7.0\Application.Interface.dll
+C:\Proyectos ASPNET\Pacagroup.Ecommerce\Application.Interface\obj\Debug\net7.0\refint\Application.Interface.dll
+C:\Proyectos ASPNET\Pacagroup.Ecommerce\Application.Interface\obj\Debug\net7.0\Application.Interface.pdb
+C:\Proyectos ASPNET\Pacagroup.Ecommerce\Application.Interface\obj\Debug\net7.0\ref\Application.Interface.dll

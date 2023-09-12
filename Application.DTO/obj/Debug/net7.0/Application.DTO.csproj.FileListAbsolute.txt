@@ -1,0 +1,12 @@
+C:\Proyectos ASPNET\Pacagroup.Ecommerce\Application.DTO\bin\Debug\net7.0\Application.DTO.deps.json
+C:\Proyectos ASPNET\Pacagroup.Ecommerce\Application.DTO\bin\Debug\net7.0\Application.DTO.dll
+C:\Proyectos ASPNET\Pacagroup.Ecommerce\Application.DTO\bin\Debug\net7.0\Application.DTO.pdb
+C:\Proyectos ASPNET\Pacagroup.Ecommerce\Application.DTO\obj\Debug\net7.0\Application.DTO.csproj.AssemblyReference.cache
+C:\Proyectos ASPNET\Pacagroup.Ecommerce\Application.DTO\obj\Debug\net7.0\Application.DTO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Proyectos ASPNET\Pacagroup.Ecommerce\Application.DTO\obj\Debug\net7.0\Application.DTO.AssemblyInfoInputs.cache
+C:\Proyectos ASPNET\Pacagroup.Ecommerce\Application.DTO\obj\Debug\net7.0\Application.DTO.AssemblyInfo.cs
+C:\Proyectos ASPNET\Pacagroup.Ecommerce\Application.DTO\obj\Debug\net7.0\Application.DTO.csproj.CoreCompileInputs.cache
+C:\Proyectos ASPNET\Pacagroup.Ecommerce\Application.DTO\obj\Debug\net7.0\Application.DTO.dll
+C:\Proyectos ASPNET\Pacagroup.Ecommerce\Application.DTO\obj\Debug\net7.0\refint\Application.DTO.dll
+C:\Proyectos ASPNET\Pacagroup.Ecommerce\Application.DTO\obj\Debug\net7.0\Application.DTO.pdb
+C:\Proyectos ASPNET\Pacagroup.Ecommerce\Application.DTO\obj\Debug\net7.0\ref\Application.DTO.dll

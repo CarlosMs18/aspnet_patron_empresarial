@@ -1,0 +1,15 @@
+C:\Proyectos ASPNET\Pacagroup.Ecommerce\Application.Validator\bin\Debug\net7.0\Application.Validator.deps.json
+C:\Proyectos ASPNET\Pacagroup.Ecommerce\Application.Validator\bin\Debug\net7.0\Application.Validator.dll
+C:\Proyectos ASPNET\Pacagroup.Ecommerce\Application.Validator\bin\Debug\net7.0\Application.Validator.pdb
+C:\Proyectos ASPNET\Pacagroup.Ecommerce\Application.Validator\bin\Debug\net7.0\Application.DTO.dll
+C:\Proyectos ASPNET\Pacagroup.Ecommerce\Application.Validator\bin\Debug\net7.0\Application.DTO.pdb
+C:\Proyectos ASPNET\Pacagroup.Ecommerce\Application.Validator\obj\Debug\net7.0\Application.Validator.csproj.AssemblyReference.cache
+C:\Proyectos ASPNET\Pacagroup.Ecommerce\Application.Validator\obj\Debug\net7.0\Application.Validator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Proyectos ASPNET\Pacagroup.Ecommerce\Application.Validator\obj\Debug\net7.0\Application.Validator.AssemblyInfoInputs.cache
+C:\Proyectos ASPNET\Pacagroup.Ecommerce\Application.Validator\obj\Debug\net7.0\Application.Validator.AssemblyInfo.cs
+C:\Proyectos ASPNET\Pacagroup.Ecommerce\Application.Validator\obj\Debug\net7.0\Application.Validator.csproj.CoreCompileInputs.cache
+C:\Proyectos ASPNET\Pacagroup.Ecommerce\Application.Validator\obj\Debug\net7.0\Application.Validator.csproj.CopyComplete
+C:\Proyectos ASPNET\Pacagroup.Ecommerce\Application.Validator\obj\Debug\net7.0\Application.Validator.dll
+C:\Proyectos ASPNET\Pacagroup.Ecommerce\Application.Validator\obj\Debug\net7.0\refint\Application.Validator.dll
+C:\Proyectos ASPNET\Pacagroup.Ecommerce\Application.Validator\obj\Debug\net7.0\Application.Validator.pdb
+C:\Proyectos ASPNET\Pacagroup.Ecommerce\Application.Validator\obj\Debug\net7.0\ref\Application.Validator.dll

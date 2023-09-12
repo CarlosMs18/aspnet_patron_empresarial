@@ -1,0 +1,15 @@
+C:\Proyectos ASPNET\Pacagroup.Ecommerce\Transversal.Logging\bin\Debug\net7.0\Transversal.Logging.deps.json
+C:\Proyectos ASPNET\Pacagroup.Ecommerce\Transversal.Logging\bin\Debug\net7.0\Transversal.Logging.dll
+C:\Proyectos ASPNET\Pacagroup.Ecommerce\Transversal.Logging\bin\Debug\net7.0\Transversal.Logging.pdb
+C:\Proyectos ASPNET\Pacagroup.Ecommerce\Transversal.Logging\bin\Debug\net7.0\Transversal.Common.dll
+C:\Proyectos ASPNET\Pacagroup.Ecommerce\Transversal.Logging\bin\Debug\net7.0\Transversal.Common.pdb
+C:\Proyectos ASPNET\Pacagroup.Ecommerce\Transversal.Logging\obj\Debug\net7.0\Transversal.Logging.csproj.AssemblyReference.cache
+C:\Proyectos ASPNET\Pacagroup.Ecommerce\Transversal.Logging\obj\Debug\net7.0\Transversal.Logging.GeneratedMSBuildEditorConfig.editorconfig
+C:\Proyectos ASPNET\Pacagroup.Ecommerce\Transversal.Logging\obj\Debug\net7.0\Transversal.Logging.AssemblyInfoInputs.cache
+C:\Proyectos ASPNET\Pacagroup.Ecommerce\Transversal.Logging\obj\Debug\net7.0\Transversal.Logging.AssemblyInfo.cs
+C:\Proyectos ASPNET\Pacagroup.Ecommerce\Transversal.Logging\obj\Debug\net7.0\Transversal.Logging.csproj.CoreCompileInputs.cache
+C:\Proyectos ASPNET\Pacagroup.Ecommerce\Transversal.Logging\obj\Debug\net7.0\Transversal.Logging.csproj.CopyComplete
+C:\Proyectos ASPNET\Pacagroup.Ecommerce\Transversal.Logging\obj\Debug\net7.0\Transversal.Logging.dll
+C:\Proyectos ASPNET\Pacagroup.Ecommerce\Transversal.Logging\obj\Debug\net7.0\refint\Transversal.Logging.dll
+C:\Proyectos ASPNET\Pacagroup.Ecommerce\Transversal.Logging\obj\Debug\net7.0\Transversal.Logging.pdb
+C:\Proyectos ASPNET\Pacagroup.Ecommerce\Transversal.Logging\obj\Debug\net7.0\ref\Transversal.Logging.dll

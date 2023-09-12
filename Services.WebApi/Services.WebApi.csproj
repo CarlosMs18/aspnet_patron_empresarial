@@ -1,0 +1,34 @@
+﻿<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup>
+    <TargetFramework>net7.0</TargetFramework>
+    <Nullable>enable</Nullable>
+    <ImplicitUsings>enable</ImplicitUsings>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Microsoft.AspNetCore.Authentication.JwtBearer" Version="7.0.10" />
+    <PackageReference Include="Microsoft.AspNetCore.Mvc.Versioning" Version="5.1.0" />
+    <PackageReference Include="Microsoft.AspNetCore.Mvc.Versioning.ApiExplorer" Version="5.1.0" />
+    <PackageReference Include="Microsoft.AspNetCore.OpenApi" Version="7.0.7" />
+    <PackageReference Include="Swashbuckle.AspNetCore" Version="6.5.0" />
+    <PackageReference Include="System.IdentityModel.Tokens.Jwt" Version="6.32.3" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Application.DTO\Application.DTO.csproj" />
+    <ProjectReference Include="..\Application.Interface\Application.Interface.csproj" />
+    <ProjectReference Include="..\Application.Main\Application.Main.csproj" />
+    <ProjectReference Include="..\Application.Validator\Application.Validator.csproj" />
+    <ProjectReference Include="..\Domain.Core\Domain.Core.csproj" />
+    <ProjectReference Include="..\Domain.Entity\Domain.Entity.csproj" />
+    <ProjectReference Include="..\Domain.Interface\Domain.Interface.csproj" />
+    <ProjectReference Include="..\Infraestructure.Data\Infraestructure.Data.csproj" />
+    <ProjectReference Include="..\Infraestructure.Interface\Infraestructure.Interface.csproj" />
+    <ProjectReference Include="..\Infraestructure.Repository\Infraestructure.Repository.csproj" />
+    <ProjectReference Include="..\Transversal.Common\Transversal.Common.csproj" />
+    <ProjectReference Include="..\Transversal.Logging\Transversal.Logging.csproj" />
+    <ProjectReference Include="..\Transversal.Mapper\Transversal.Mapper.csproj" />
+  </ItemGroup>
+
+</Project>

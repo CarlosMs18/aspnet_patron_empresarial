@@ -1,0 +1,12 @@
+C:\Proyectos ASPNET\Pacagroup.Ecommerce\Transversal.Common\bin\Debug\net7.0\Transversal.Common.deps.json
+C:\Proyectos ASPNET\Pacagroup.Ecommerce\Transversal.Common\bin\Debug\net7.0\Transversal.Common.dll
+C:\Proyectos ASPNET\Pacagroup.Ecommerce\Transversal.Common\bin\Debug\net7.0\Transversal.Common.pdb
+C:\Proyectos ASPNET\Pacagroup.Ecommerce\Transversal.Common\obj\Debug\net7.0\Transversal.Common.csproj.AssemblyReference.cache
+C:\Proyectos ASPNET\Pacagroup.Ecommerce\Transversal.Common\obj\Debug\net7.0\Transversal.Common.GeneratedMSBuildEditorConfig.editorconfig
+C:\Proyectos ASPNET\Pacagroup.Ecommerce\Transversal.Common\obj\Debug\net7.0\Transversal.Common.AssemblyInfoInputs.cache
+C:\Proyectos ASPNET\Pacagroup.Ecommerce\Transversal.Common\obj\Debug\net7.0\Transversal.Common.AssemblyInfo.cs
+C:\Proyectos ASPNET\Pacagroup.Ecommerce\Transversal.Common\obj\Debug\net7.0\Transversal.Common.csproj.CoreCompileInputs.cache
+C:\Proyectos ASPNET\Pacagroup.Ecommerce\Transversal.Common\obj\Debug\net7.0\Transversal.Common.dll
+C:\Proyectos ASPNET\Pacagroup.Ecommerce\Transversal.Common\obj\Debug\net7.0\refint\Transversal.Common.dll
+C:\Proyectos ASPNET\Pacagroup.Ecommerce\Transversal.Common\obj\Debug\net7.0\Transversal.Common.pdb
+C:\Proyectos ASPNET\Pacagroup.Ecommerce\Transversal.Common\obj\Debug\net7.0\ref\Transversal.Common.dll

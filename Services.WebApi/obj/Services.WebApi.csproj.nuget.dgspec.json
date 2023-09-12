@@ -1,0 +1,983 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Proyectos ASPNET\\Pacagroup.Ecommerce\\Services.WebApi\\Services.WebApi.csproj": {}
+  },
+  "projects": {
+    "C:\\Proyectos ASPNET\\Pacagroup.Ecommerce\\Application.DTO\\Application.DTO.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Proyectos ASPNET\\Pacagroup.Ecommerce\\Application.DTO\\Application.DTO.csproj",
+        "projectName": "Application.DTO",
+        "projectPath": "C:\\Proyectos ASPNET\\Pacagroup.Ecommerce\\Application.DTO\\Application.DTO.csproj",
+        "packagesPath": "C:\\Users\\jazmi\\.nuget\\packages\\",
+        "outputPath": "C:\\Proyectos ASPNET\\Pacagroup.Ecommerce\\Application.DTO\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\jazmi\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.304\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Proyectos ASPNET\\Pacagroup.Ecommerce\\Application.Interface\\Application.Interface.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Proyectos ASPNET\\Pacagroup.Ecommerce\\Application.Interface\\Application.Interface.csproj",
+        "projectName": "Application.Interface",
+        "projectPath": "C:\\Proyectos ASPNET\\Pacagroup.Ecommerce\\Application.Interface\\Application.Interface.csproj",
+        "packagesPath": "C:\\Users\\jazmi\\.nuget\\packages\\",
+        "outputPath": "C:\\Proyectos ASPNET\\Pacagroup.Ecommerce\\Application.Interface\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\jazmi\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {
+              "C:\\Proyectos ASPNET\\Pacagroup.Ecommerce\\Application.DTO\\Application.DTO.csproj": {
+                "projectPath": "C:\\Proyectos ASPNET\\Pacagroup.Ecommerce\\Application.DTO\\Application.DTO.csproj"
+              },
+              "C:\\Proyectos ASPNET\\Pacagroup.Ecommerce\\Transversal.Common\\Transversal.Common.csproj": {
+                "projectPath": "C:\\Proyectos ASPNET\\Pacagroup.Ecommerce\\Transversal.Common\\Transversal.Common.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.304\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Proyectos ASPNET\\Pacagroup.Ecommerce\\Application.Main\\Application.Main.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Proyectos ASPNET\\Pacagroup.Ecommerce\\Application.Main\\Application.Main.csproj",
+        "projectName": "Application.Main",
+        "projectPath": "C:\\Proyectos ASPNET\\Pacagroup.Ecommerce\\Application.Main\\Application.Main.csproj",
+        "packagesPath": "C:\\Users\\jazmi\\.nuget\\packages\\",
+        "outputPath": "C:\\Proyectos ASPNET\\Pacagroup.Ecommerce\\Application.Main\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\jazmi\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {
+              "C:\\Proyectos ASPNET\\Pacagroup.Ecommerce\\Application.DTO\\Application.DTO.csproj": {
+                "projectPath": "C:\\Proyectos ASPNET\\Pacagroup.Ecommerce\\Application.DTO\\Application.DTO.csproj"
+              },
+              "C:\\Proyectos ASPNET\\Pacagroup.Ecommerce\\Application.Interface\\Application.Interface.csproj": {
+                "projectPath": "C:\\Proyectos ASPNET\\Pacagroup.Ecommerce\\Application.Interface\\Application.Interface.csproj"
+              },
+              "C:\\Proyectos ASPNET\\Pacagroup.Ecommerce\\Application.Validator\\Application.Validator.csproj": {
+                "projectPath": "C:\\Proyectos ASPNET\\Pacagroup.Ecommerce\\Application.Validator\\Application.Validator.csproj"
+              },
+              "C:\\Proyectos ASPNET\\Pacagroup.Ecommerce\\Domain.Entity\\Domain.Entity.csproj": {
+                "projectPath": "C:\\Proyectos ASPNET\\Pacagroup.Ecommerce\\Domain.Entity\\Domain.Entity.csproj"
+              },
+              "C:\\Proyectos ASPNET\\Pacagroup.Ecommerce\\Domain.Interface\\Domain.Interface.csproj": {
+                "projectPath": "C:\\Proyectos ASPNET\\Pacagroup.Ecommerce\\Domain.Interface\\Domain.Interface.csproj"
+              },
+              "C:\\Proyectos ASPNET\\Pacagroup.Ecommerce\\Transversal.Common\\Transversal.Common.csproj": {
+                "projectPath": "C:\\Proyectos ASPNET\\Pacagroup.Ecommerce\\Transversal.Common\\Transversal.Common.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "dependencies": {
+            "AutoMapper": {
+              "target": "Package",
+              "version": "[12.0.1, )"
+            },
+            "AutoMapper.Extensions.Microsoft.DependencyInjection": {
+              "target": "Package",
+              "version": "[12.0.1, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.304\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Proyectos ASPNET\\Pacagroup.Ecommerce\\Application.Validator\\Application.Validator.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Proyectos ASPNET\\Pacagroup.Ecommerce\\Application.Validator\\Application.Validator.csproj",
+        "projectName": "Application.Validator",
+        "projectPath": "C:\\Proyectos ASPNET\\Pacagroup.Ecommerce\\Application.Validator\\Application.Validator.csproj",
+        "packagesPath": "C:\\Users\\jazmi\\.nuget\\packages\\",
+        "outputPath": "C:\\Proyectos ASPNET\\Pacagroup.Ecommerce\\Application.Validator\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\jazmi\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {
+              "C:\\Proyectos ASPNET\\Pacagroup.Ecommerce\\Application.DTO\\Application.DTO.csproj": {
+                "projectPath": "C:\\Proyectos ASPNET\\Pacagroup.Ecommerce\\Application.DTO\\Application.DTO.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "dependencies": {
+            "FluentValidation": {
+              "target": "Package",
+              "version": "[11.7.1, )"
+            },
+            "FluentValidation.DependencyInjectionExtensions": {
+              "target": "Package",
+              "version": "[11.7.1, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.304\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Proyectos ASPNET\\Pacagroup.Ecommerce\\Domain.Core\\Domain.Core.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Proyectos ASPNET\\Pacagroup.Ecommerce\\Domain.Core\\Domain.Core.csproj",
+        "projectName": "Domain.Core",
+        "projectPath": "C:\\Proyectos ASPNET\\Pacagroup.Ecommerce\\Domain.Core\\Domain.Core.csproj",
+        "packagesPath": "C:\\Users\\jazmi\\.nuget\\packages\\",
+        "outputPath": "C:\\Proyectos ASPNET\\Pacagroup.Ecommerce\\Domain.Core\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\jazmi\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {
+              "C:\\Proyectos ASPNET\\Pacagroup.Ecommerce\\Domain.Entity\\Domain.Entity.csproj": {
+                "projectPath": "C:\\Proyectos ASPNET\\Pacagroup.Ecommerce\\Domain.Entity\\Domain.Entity.csproj"
+              },
+              "C:\\Proyectos ASPNET\\Pacagroup.Ecommerce\\Domain.Interface\\Domain.Interface.csproj": {
+                "projectPath": "C:\\Proyectos ASPNET\\Pacagroup.Ecommerce\\Domain.Interface\\Domain.Interface.csproj"
+              },
+              "C:\\Proyectos ASPNET\\Pacagroup.Ecommerce\\Infraestructure.Interface\\Infraestructure.Interface.csproj": {
+                "projectPath": "C:\\Proyectos ASPNET\\Pacagroup.Ecommerce\\Infraestructure.Interface\\Infraestructure.Interface.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.304\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Proyectos ASPNET\\Pacagroup.Ecommerce\\Domain.Entity\\Domain.Entity.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Proyectos ASPNET\\Pacagroup.Ecommerce\\Domain.Entity\\Domain.Entity.csproj",
+        "projectName": "Domain.Entity",
+        "projectPath": "C:\\Proyectos ASPNET\\Pacagroup.Ecommerce\\Domain.Entity\\Domain.Entity.csproj",
+        "packagesPath": "C:\\Users\\jazmi\\.nuget\\packages\\",
+        "outputPath": "C:\\Proyectos ASPNET\\Pacagroup.Ecommerce\\Domain.Entity\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\jazmi\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.304\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Proyectos ASPNET\\Pacagroup.Ecommerce\\Domain.Interface\\Domain.Interface.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Proyectos ASPNET\\Pacagroup.Ecommerce\\Domain.Interface\\Domain.Interface.csproj",
+        "projectName": "Domain.Interface",
+        "projectPath": "C:\\Proyectos ASPNET\\Pacagroup.Ecommerce\\Domain.Interface\\Domain.Interface.csproj",
+        "packagesPath": "C:\\Users\\jazmi\\.nuget\\packages\\",
+        "outputPath": "C:\\Proyectos ASPNET\\Pacagroup.Ecommerce\\Domain.Interface\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\jazmi\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {
+              "C:\\Proyectos ASPNET\\Pacagroup.Ecommerce\\Domain.Entity\\Domain.Entity.csproj": {
+                "projectPath": "C:\\Proyectos ASPNET\\Pacagroup.Ecommerce\\Domain.Entity\\Domain.Entity.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.304\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Proyectos ASPNET\\Pacagroup.Ecommerce\\Infraestructure.Data\\Infraestructure.Data.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Proyectos ASPNET\\Pacagroup.Ecommerce\\Infraestructure.Data\\Infraestructure.Data.csproj",
+        "projectName": "Infraestructure.Data",
+        "projectPath": "C:\\Proyectos ASPNET\\Pacagroup.Ecommerce\\Infraestructure.Data\\Infraestructure.Data.csproj",
+        "packagesPath": "C:\\Users\\jazmi\\.nuget\\packages\\",
+        "outputPath": "C:\\Proyectos ASPNET\\Pacagroup.Ecommerce\\Infraestructure.Data\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\jazmi\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {
+              "C:\\Proyectos ASPNET\\Pacagroup.Ecommerce\\Transversal.Common\\Transversal.Common.csproj": {
+                "projectPath": "C:\\Proyectos ASPNET\\Pacagroup.Ecommerce\\Transversal.Common\\Transversal.Common.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "dependencies": {
+            "Microsoft.Extensions.Configuration": {
+              "target": "Package",
+              "version": "[7.0.0, )"
+            },
+            "System.Data.SqlClient": {
+              "target": "Package",
+              "version": "[4.8.5, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.304\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Proyectos ASPNET\\Pacagroup.Ecommerce\\Infraestructure.Interface\\Infraestructure.Interface.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Proyectos ASPNET\\Pacagroup.Ecommerce\\Infraestructure.Interface\\Infraestructure.Interface.csproj",
+        "projectName": "Infraestructure.Interface",
+        "projectPath": "C:\\Proyectos ASPNET\\Pacagroup.Ecommerce\\Infraestructure.Interface\\Infraestructure.Interface.csproj",
+        "packagesPath": "C:\\Users\\jazmi\\.nuget\\packages\\",
+        "outputPath": "C:\\Proyectos ASPNET\\Pacagroup.Ecommerce\\Infraestructure.Interface\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\jazmi\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {
+              "C:\\Proyectos ASPNET\\Pacagroup.Ecommerce\\Domain.Entity\\Domain.Entity.csproj": {
+                "projectPath": "C:\\Proyectos ASPNET\\Pacagroup.Ecommerce\\Domain.Entity\\Domain.Entity.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.304\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Proyectos ASPNET\\Pacagroup.Ecommerce\\Infraestructure.Repository\\Infraestructure.Repository.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Proyectos ASPNET\\Pacagroup.Ecommerce\\Infraestructure.Repository\\Infraestructure.Repository.csproj",
+        "projectName": "Infraestructure.Repository",
+        "projectPath": "C:\\Proyectos ASPNET\\Pacagroup.Ecommerce\\Infraestructure.Repository\\Infraestructure.Repository.csproj",
+        "packagesPath": "C:\\Users\\jazmi\\.nuget\\packages\\",
+        "outputPath": "C:\\Proyectos ASPNET\\Pacagroup.Ecommerce\\Infraestructure.Repository\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\jazmi\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {
+              "C:\\Proyectos ASPNET\\Pacagroup.Ecommerce\\Domain.Entity\\Domain.Entity.csproj": {
+                "projectPath": "C:\\Proyectos ASPNET\\Pacagroup.Ecommerce\\Domain.Entity\\Domain.Entity.csproj"
+              },
+              "C:\\Proyectos ASPNET\\Pacagroup.Ecommerce\\Infraestructure.Interface\\Infraestructure.Interface.csproj": {
+                "projectPath": "C:\\Proyectos ASPNET\\Pacagroup.Ecommerce\\Infraestructure.Interface\\Infraestructure.Interface.csproj"
+              },
+              "C:\\Proyectos ASPNET\\Pacagroup.Ecommerce\\Transversal.Common\\Transversal.Common.csproj": {
+                "projectPath": "C:\\Proyectos ASPNET\\Pacagroup.Ecommerce\\Transversal.Common\\Transversal.Common.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "dependencies": {
+            "Dapper": {
+              "target": "Package",
+              "version": "[2.0.151, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.304\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Proyectos ASPNET\\Pacagroup.Ecommerce\\Services.WebApi\\Services.WebApi.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Proyectos ASPNET\\Pacagroup.Ecommerce\\Services.WebApi\\Services.WebApi.csproj",
+        "projectName": "Services.WebApi",
+        "projectPath": "C:\\Proyectos ASPNET\\Pacagroup.Ecommerce\\Services.WebApi\\Services.WebApi.csproj",
+        "packagesPath": "C:\\Users\\jazmi\\.nuget\\packages\\",
+        "outputPath": "C:\\Proyectos ASPNET\\Pacagroup.Ecommerce\\Services.WebApi\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\jazmi\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\sdk\\7.0.304\\Sdks\\Microsoft.NET.Sdk.Web\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {
+              "C:\\Proyectos ASPNET\\Pacagroup.Ecommerce\\Application.DTO\\Application.DTO.csproj": {
+                "projectPath": "C:\\Proyectos ASPNET\\Pacagroup.Ecommerce\\Application.DTO\\Application.DTO.csproj"
+              },
+              "C:\\Proyectos ASPNET\\Pacagroup.Ecommerce\\Application.Interface\\Application.Interface.csproj": {
+                "projectPath": "C:\\Proyectos ASPNET\\Pacagroup.Ecommerce\\Application.Interface\\Application.Interface.csproj"
+              },
+              "C:\\Proyectos ASPNET\\Pacagroup.Ecommerce\\Application.Main\\Application.Main.csproj": {
+                "projectPath": "C:\\Proyectos ASPNET\\Pacagroup.Ecommerce\\Application.Main\\Application.Main.csproj"
+              },
+              "C:\\Proyectos ASPNET\\Pacagroup.Ecommerce\\Application.Validator\\Application.Validator.csproj": {
+                "projectPath": "C:\\Proyectos ASPNET\\Pacagroup.Ecommerce\\Application.Validator\\Application.Validator.csproj"
+              },
+              "C:\\Proyectos ASPNET\\Pacagroup.Ecommerce\\Domain.Core\\Domain.Core.csproj": {
+                "projectPath": "C:\\Proyectos ASPNET\\Pacagroup.Ecommerce\\Domain.Core\\Domain.Core.csproj"
+              },
+              "C:\\Proyectos ASPNET\\Pacagroup.Ecommerce\\Domain.Entity\\Domain.Entity.csproj": {
+                "projectPath": "C:\\Proyectos ASPNET\\Pacagroup.Ecommerce\\Domain.Entity\\Domain.Entity.csproj"
+              },
+              "C:\\Proyectos ASPNET\\Pacagroup.Ecommerce\\Domain.Interface\\Domain.Interface.csproj": {
+                "projectPath": "C:\\Proyectos ASPNET\\Pacagroup.Ecommerce\\Domain.Interface\\Domain.Interface.csproj"
+              },
+              "C:\\Proyectos ASPNET\\Pacagroup.Ecommerce\\Infraestructure.Data\\Infraestructure.Data.csproj": {
+                "projectPath": "C:\\Proyectos ASPNET\\Pacagroup.Ecommerce\\Infraestructure.Data\\Infraestructure.Data.csproj"
+              },
+              "C:\\Proyectos ASPNET\\Pacagroup.Ecommerce\\Infraestructure.Interface\\Infraestructure.Interface.csproj": {
+                "projectPath": "C:\\Proyectos ASPNET\\Pacagroup.Ecommerce\\Infraestructure.Interface\\Infraestructure.Interface.csproj"
+              },
+              "C:\\Proyectos ASPNET\\Pacagroup.Ecommerce\\Infraestructure.Repository\\Infraestructure.Repository.csproj": {
+                "projectPath": "C:\\Proyectos ASPNET\\Pacagroup.Ecommerce\\Infraestructure.Repository\\Infraestructure.Repository.csproj"
+              },
+              "C:\\Proyectos ASPNET\\Pacagroup.Ecommerce\\Transversal.Common\\Transversal.Common.csproj": {
+                "projectPath": "C:\\Proyectos ASPNET\\Pacagroup.Ecommerce\\Transversal.Common\\Transversal.Common.csproj"
+              },
+              "C:\\Proyectos ASPNET\\Pacagroup.Ecommerce\\Transversal.Logging\\Transversal.Logging.csproj": {
+                "projectPath": "C:\\Proyectos ASPNET\\Pacagroup.Ecommerce\\Transversal.Logging\\Transversal.Logging.csproj"
+              },
+              "C:\\Proyectos ASPNET\\Pacagroup.Ecommerce\\Transversal.Mapper\\Transversal.Mapper.csproj": {
+                "projectPath": "C:\\Proyectos ASPNET\\Pacagroup.Ecommerce\\Transversal.Mapper\\Transversal.Mapper.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "dependencies": {
+            "Microsoft.AspNetCore.Authentication.JwtBearer": {
+              "target": "Package",
+              "version": "[7.0.10, )"
+            },
+            "Microsoft.AspNetCore.Mvc.Versioning": {
+              "target": "Package",
+              "version": "[5.1.0, )"
+            },
+            "Microsoft.AspNetCore.Mvc.Versioning.ApiExplorer": {
+              "target": "Package",
+              "version": "[5.1.0, )"
+            },
+            "Microsoft.AspNetCore.OpenApi": {
+              "target": "Package",
+              "version": "[7.0.7, )"
+            },
+            "Swashbuckle.AspNetCore": {
+              "target": "Package",
+              "version": "[6.5.0, )"
+            },
+            "System.IdentityModel.Tokens.Jwt": {
+              "target": "Package",
+              "version": "[6.32.3, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.304\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Proyectos ASPNET\\Pacagroup.Ecommerce\\Transversal.Common\\Transversal.Common.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Proyectos ASPNET\\Pacagroup.Ecommerce\\Transversal.Common\\Transversal.Common.csproj",
+        "projectName": "Transversal.Common",
+        "projectPath": "C:\\Proyectos ASPNET\\Pacagroup.Ecommerce\\Transversal.Common\\Transversal.Common.csproj",
+        "packagesPath": "C:\\Users\\jazmi\\.nuget\\packages\\",
+        "outputPath": "C:\\Proyectos ASPNET\\Pacagroup.Ecommerce\\Transversal.Common\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\jazmi\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "dependencies": {
+            "FluentValidation": {
+              "target": "Package",
+              "version": "[11.7.1, )"
+            },
+            "FluentValidation.DependencyInjectionExtensions": {
+              "target": "Package",
+              "version": "[11.7.1, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.304\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Proyectos ASPNET\\Pacagroup.Ecommerce\\Transversal.Logging\\Transversal.Logging.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Proyectos ASPNET\\Pacagroup.Ecommerce\\Transversal.Logging\\Transversal.Logging.csproj",
+        "projectName": "Transversal.Logging",
+        "projectPath": "C:\\Proyectos ASPNET\\Pacagroup.Ecommerce\\Transversal.Logging\\Transversal.Logging.csproj",
+        "packagesPath": "C:\\Users\\jazmi\\.nuget\\packages\\",
+        "outputPath": "C:\\Proyectos ASPNET\\Pacagroup.Ecommerce\\Transversal.Logging\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\jazmi\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {
+              "C:\\Proyectos ASPNET\\Pacagroup.Ecommerce\\Transversal.Common\\Transversal.Common.csproj": {
+                "projectPath": "C:\\Proyectos ASPNET\\Pacagroup.Ecommerce\\Transversal.Common\\Transversal.Common.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "dependencies": {
+            "Microsoft.Extensions.Logging": {
+              "target": "Package",
+              "version": "[7.0.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.304\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Proyectos ASPNET\\Pacagroup.Ecommerce\\Transversal.Mapper\\Transversal.Mapper.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Proyectos ASPNET\\Pacagroup.Ecommerce\\Transversal.Mapper\\Transversal.Mapper.csproj",
+        "projectName": "Transversal.Mapper",
+        "projectPath": "C:\\Proyectos ASPNET\\Pacagroup.Ecommerce\\Transversal.Mapper\\Transversal.Mapper.csproj",
+        "packagesPath": "C:\\Users\\jazmi\\.nuget\\packages\\",
+        "outputPath": "C:\\Proyectos ASPNET\\Pacagroup.Ecommerce\\Transversal.Mapper\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\jazmi\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {
+              "C:\\Proyectos ASPNET\\Pacagroup.Ecommerce\\Application.DTO\\Application.DTO.csproj": {
+                "projectPath": "C:\\Proyectos ASPNET\\Pacagroup.Ecommerce\\Application.DTO\\Application.DTO.csproj"
+              },
+              "C:\\Proyectos ASPNET\\Pacagroup.Ecommerce\\Domain.Entity\\Domain.Entity.csproj": {
+                "projectPath": "C:\\Proyectos ASPNET\\Pacagroup.Ecommerce\\Domain.Entity\\Domain.Entity.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "dependencies": {
+            "AutoMapper": {
+              "target": "Package",
+              "version": "[12.0.1, )"
+            },
+            "AutoMapper.Extensions.Microsoft.DependencyInjection": {
+              "target": "Package",
+              "version": "[12.0.1, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.304\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

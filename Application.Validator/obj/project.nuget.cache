@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "SlHQqiLt7fsfKWbnhlf1vd3wF/7HPAsBCLDll2QB84IfWn/L4k9KkKIAtFV5cOT929ix8Zuox/Ok7yWrfPj3Rg==",
+  "success": true,
+  "projectFilePath": "C:\\Proyectos ASPNET\\Pacagroup.Ecommerce\\Application.Validator\\Application.Validator.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\jazmi\\.nuget\\packages\\fluentvalidation\\11.7.1\\fluentvalidation.11.7.1.nupkg.sha512",
+    "C:\\Users\\jazmi\\.nuget\\packages\\fluentvalidation.dependencyinjectionextensions\\11.7.1\\fluentvalidation.dependencyinjectionextensions.11.7.1.nupkg.sha512",
+    "C:\\Users\\jazmi\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\2.1.0\\microsoft.extensions.dependencyinjection.abstractions.2.1.0.nupkg.sha512"
+  ],
+  "logs": []
+}

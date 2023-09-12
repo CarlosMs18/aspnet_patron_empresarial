@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "RxIZsmjI2PAtPs/7v8aM94tYK1lCeNNPezFwRsAWcd6q3XNW0swHgUhszkuzCPVOpEw/OEGcfDoqmFS7NhZdnA==",
+  "success": true,
+  "projectFilePath": "C:\\Proyectos ASPNET\\Pacagroup.Ecommerce\\Transversal.Common\\Transversal.Common.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\jazmi\\.nuget\\packages\\fluentvalidation\\11.7.1\\fluentvalidation.11.7.1.nupkg.sha512",
+    "C:\\Users\\jazmi\\.nuget\\packages\\fluentvalidation.dependencyinjectionextensions\\11.7.1\\fluentvalidation.dependencyinjectionextensions.11.7.1.nupkg.sha512",
+    "C:\\Users\\jazmi\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\2.1.0\\microsoft.extensions.dependencyinjection.abstractions.2.1.0.nupkg.sha512"
+  ],
+  "logs": []
+}
